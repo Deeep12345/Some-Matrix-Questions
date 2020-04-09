@@ -1,0 +1,32 @@
+Yes, have worked with various sensor, actuators in many projects.
+These are some project's, there are many more but I will have issue writing about
+all of them. Please find Projects items here : https://drive.google.com/drive/folders/1ds_m6w_xxumnUz-OtCD75CCvjgollyMp?usp=sharing
+
+1) Have made a 3 Axis Servo Arm
+--> Built a robotic arm that could record data and perform certain tasks.
+--> Was powered by Servos.
+--> The controller was arduino.
+--> Powered by li-po battery.
+
+2) Have Made Home Automation Module
+--> It has DHT22 sensor for temperature and humidity sensor.
+--> Had RTC clock for time saving.
+--> Had option to interface with PIR sensor for motion detection.
+--> Had it's own android application
+--> Voice controlled via alexa and google home.
+--> The cloud system was mqtt system, using amazon AWS cloud.
+
+3) Made Earthquake BED
+--> Was powered by Li-po batterys
+--> The moving part was controlled by Stepper motors.
+--> Had MPU6050 sensor, for sensing motion and earthquake.
+
+4) Autonomous Bot
+--> Autonomous line,wall following bot.
+--> Had 8 IR sensors for following lines.
+--> Had Encoder for measuring distance.
+--> For wall following included 3 ultrasonic sensor.
+
+5) Drone's 
+--> Worked with Lidar sensor, MPU6050 and barometers
+--> Very flight stability.

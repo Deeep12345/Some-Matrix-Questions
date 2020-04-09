@@ -1,0 +1,1 @@
+Enter the value after opening Serial monitor, all in CAPS.
